@@ -52,6 +52,9 @@ sites:
   - name: mercantilvigo
     url: https://oficina.mercantilvigo.xestos.es/ht
     product: CLUBXEST
+  - name: padelbao
+    url: https://oficina.padelbao.xestos.es/ht
+    product: CLUBXEST
   - name: reservas ureca
     url: http://reservas.ureca.es
   - name: reservas 12zenter
