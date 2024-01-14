@@ -1,7 +1,7 @@
 url: https://sso.zeltik.es/auth
-status: up
-code: 200
-responseTime: 828
-lastUpdated: 2024-01-14T04:48:50.041Z
+status: down
+code: 404
+responseTime: 421
+lastUpdated: 2024-01-14T05:06:23.144Z
 startTime: 2021-07-07T17:45:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
