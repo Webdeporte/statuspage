@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 556,
-    "timeDay": 549,
-    "timeWeek": 624,
-    "timeMonth": 575,
-    "timeYear": 572,
+    "timeDay": 488,
+    "timeWeek": 574,
+    "timeMonth": 573,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2024-05-22": 241,
       "2023-12-23": 30,
@@ -34,10 +34,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1230,
-    "timeDay": 1251,
-    "timeWeek": 1290,
-    "timeMonth": 1238,
+    "time": 1229,
+    "timeDay": 1218,
+    "timeWeek": 1273,
+    "timeMonth": 1243,
     "timeYear": 1235,
     "dailyMinutesDown": {
       "2024-03-12": 75,
@@ -58,10 +58,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.79%",
     "time": 698,
-    "timeDay": 557,
-    "timeWeek": 723,
-    "timeMonth": 659,
-    "timeYear": 700,
+    "timeDay": 622,
+    "timeWeek": 677,
+    "timeMonth": 663,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2024-06-19": 33,
       "2024-04-15": 21,
@@ -72,8 +72,7 @@
       "2023-12-03": 302,
       "2023-09-17": 377,
       "2023-08-14": 25,
-      "2023-07-13": 37,
-      "2023-07-12": 49
+      "2023-07-13": 37
     }
   },
   {
@@ -88,9 +87,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 243,
-    "timeDay": 207,
-    "timeWeek": 262,
-    "timeMonth": 240,
+    "timeDay": 210,
+    "timeWeek": 247,
+    "timeMonth": 241,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2024-06-19": 33,
@@ -103,18 +102,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.twelvepadelzenter.com.ico",
     "slug": "twelvepadelzenter",
     "status": "down",
-    "uptime": "85.21%",
+    "uptime": "85.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.55%",
+    "uptimeYear": "88.28%",
     "time": 587,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 588,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -164,8 +164,7 @@
       "2023-12-03": 301,
       "2023-09-17": 402,
       "2023-07-14": 57,
-      "2023-07-13": 64,
-      "2023-07-12": 49
+      "2023-07-13": 64
     }
   },
   {
@@ -185,7 +184,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -548,8 +548,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -558,18 +557,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.ureca.es.ico",
     "slug": "ureca",
     "status": "down",
-    "uptime": "36.73%",
+    "uptime": "36.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 689,
+    "time": 691,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -932,8 +932,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -942,7 +941,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/club.zeltik.es.ico",
     "slug": "zeltik",
     "status": "down",
-    "uptime": "53.57%",
+    "uptime": "53.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -953,7 +952,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -1316,8 +1316,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -1326,18 +1325,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficinarecpadel.xestos.es.ico",
     "slug": "recpadel",
     "status": "down",
-    "uptime": "71.11%",
+    "uptime": "71.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.61%",
-    "time": 616,
+    "uptimeYear": "86.34%",
+    "time": 617,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -1398,8 +1398,7 @@
       "2023-09-03": 1362,
       "2023-08-14": 21,
       "2023-07-14": 57,
-      "2023-07-13": 64,
-      "2023-07-12": 49
+      "2023-07-13": 64
     }
   },
   {
@@ -1419,7 +1418,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -1782,8 +1782,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -1803,7 +1802,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -2166,8 +2166,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -2187,7 +2186,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -2550,8 +2550,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -2560,18 +2559,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.casinocoruna.xestos.es.ico",
     "slug": "casinocoruna",
     "status": "down",
-    "uptime": "35.81%",
+    "uptime": "35.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1634,
+    "time": 1516,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -2934,8 +2934,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -2944,18 +2943,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.mercantilvigo.xestos.es.ico",
     "slug": "mercantilvigo",
     "status": "down",
-    "uptime": "39.79%",
+    "uptime": "39.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1216,
+    "time": 1223,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 30,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -3318,8 +3318,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -3328,18 +3327,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.padelbao.xestos.es.ico",
     "slug": "padelbao",
     "status": "down",
-    "uptime": "18.28%",
+    "uptime": "18.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1900,
+    "time": 1926,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-10": 31,
+      "2024-07-11": 31,
+      "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
@@ -3702,8 +3702,7 @@
       "2023-07-16": 1440,
       "2023-07-15": 1440,
       "2023-07-14": 1440,
-      "2023-07-13": 1440,
-      "2023-07-12": 1440
+      "2023-07-13": 1440
     }
   },
   {
@@ -3717,10 +3716,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 373,
-    "timeDay": 318,
-    "timeWeek": 361,
-    "timeMonth": 332,
+    "time": 374,
+    "timeDay": 242,
+    "timeWeek": 331,
+    "timeMonth": 325,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2024-04-15": 20,
@@ -3740,10 +3739,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 324,
-    "timeDay": 279,
-    "timeWeek": 325,
-    "timeMonth": 317,
-    "timeYear": 326,
+    "timeDay": 304,
+    "timeWeek": 317,
+    "timeMonth": 318,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2024-04-15": 20,
       "2024-03-12": 75,
@@ -3762,10 +3761,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 892,
-    "timeDay": 743,
-    "timeWeek": 899,
-    "timeMonth": 884,
-    "timeYear": 886,
+    "timeDay": 809,
+    "timeWeek": 859,
+    "timeMonth": 880,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2024-06-19": 27,
       "2024-04-15": 36,
