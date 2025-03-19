@@ -1,7 +1,7 @@
 url: https://pos.recpadel.xestos.es/
-status: down
-code: 503
-responseTime: 1119
-lastUpdated: 2025-03-19T16:49:27.913Z
+status: up
+code: 200
+responseTime: 1695
+lastUpdated: 2025-03-19T17:09:49.612Z
 startTime: 2022-10-29T19:28:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
