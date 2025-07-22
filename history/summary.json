@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 766,
-    "timeDay": 1366,
-    "timeWeek": 982,
-    "timeMonth": 954,
-    "timeYear": 813,
+    "timeDay": 758,
+    "timeWeek": 970,
+    "timeMonth": 938,
+    "timeYear": 814,
     "dailyMinutesDown": {
       "2025-03-07": 21,
       "2024-12-31": 15,
@@ -33,18 +33,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.webdeporte.com.ico",
     "slug": "webdeporte-prestashop",
     "status": "down",
-    "uptime": "92.22%",
+    "uptime": "92.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.74%",
-    "time": 1131,
-    "timeDay": 725,
-    "timeWeek": 375,
-    "timeMonth": 360,
-    "timeYear": 1085,
+    "uptimeYear": "68.57%",
+    "time": 1129,
+    "timeDay": 263,
+    "timeWeek": 369,
+    "timeMonth": 353,
+    "timeYear": 1082,
     "dailyMinutesDown": {
-      "2025-07-21": 636,
+      "2025-07-22": 45,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -181,10 +182,10 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.93%",
     "time": 716,
-    "timeDay": 1363,
-    "timeWeek": 797,
-    "timeMonth": 699,
-    "timeYear": 698,
+    "timeDay": 1107,
+    "timeWeek": 805,
+    "timeMonth": 692,
+    "timeYear": 699,
     "dailyMinutesDown": {
       "2025-07-21": 76,
       "2025-03-07": 46,
@@ -207,10 +208,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 248,
-    "timeDay": 312,
+    "timeDay": 178,
     "timeWeek": 242,
-    "timeMonth": 261,
-    "timeYear": 253,
+    "timeMonth": 242,
+    "timeYear": 252,
     "dailyMinutesDown": {
       "2025-02-19": 33,
       "2024-09-19": 43
@@ -222,16 +223,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.twelvepadelzenter.com.ico",
     "slug": "twelvepadelzenter",
     "status": "up",
-    "uptime": "63.46%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "0.00%",
-    "time": 688,
-    "timeDay": 1255,
-    "timeWeek": 1255,
-    "timeMonth": 1255,
-    "timeYear": 1255,
+    "uptime": "63.47%",
+    "uptimeDay": "59.03%",
+    "uptimeWeek": "8.43%",
+    "uptimeMonth": "3.32%",
+    "uptimeYear": "0.16%",
+    "time": 690,
+    "timeDay": 1101,
+    "timeWeek": 1101,
+    "timeMonth": 1101,
+    "timeYear": 1101,
     "dailyMinutesDown": {
       "2025-07-21": 636,
       "2025-07-20": 1440,
@@ -596,8 +597,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -617,7 +617,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 637,
+      "2025-07-22": 46,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -980,8 +981,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -990,7 +990,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.ureca.es.ico",
     "slug": "ureca",
     "status": "down",
-    "uptime": "26.94%",
+    "uptime": "26.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1001,7 +1001,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 637,
+      "2025-07-22": 46,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -1364,8 +1365,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -1374,7 +1374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/club.zeltik.es.ico",
     "slug": "zeltik",
     "status": "down",
-    "uptime": "39.29%",
+    "uptime": "39.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1385,7 +1385,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 637,
+      "2025-07-22": 46,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -1748,8 +1749,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -1758,16 +1758,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficinarecpadel.xestos.es.ico",
     "slug": "recpadel",
     "status": "up",
-    "uptime": "51.45%",
-    "uptimeDay": "2.57%",
-    "uptimeWeek": "0.37%",
-    "uptimeMonth": "1.47%",
-    "uptimeYear": "0.01%",
-    "time": 702,
-    "timeDay": 866,
-    "timeWeek": 866,
-    "timeMonth": 866,
-    "timeYear": 866,
+    "uptime": "51.47%",
+    "uptimeDay": "61.53%",
+    "uptimeWeek": "8.79%",
+    "uptimeMonth": "3.40%",
+    "uptimeYear": "0.17%",
+    "time": 699,
+    "timeDay": 672,
+    "timeWeek": 672,
+    "timeMonth": 672,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2025-07-21": 600,
       "2025-07-20": 1440,
@@ -2132,8 +2132,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -2153,7 +2152,8 @@
     "timeMonth": 0,
     "timeYear": 1313,
     "dailyMinutesDown": {
-      "2025-07-21": 637,
+      "2025-07-22": 46,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -2475,8 +2475,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -2496,7 +2495,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 637,
+      "2025-07-22": 46,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -2859,8 +2859,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -2880,7 +2879,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 637,
+      "2025-07-22": 46,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -3243,8 +3243,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -3253,7 +3252,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.casinocoruna.xestos.es.ico",
     "slug": "casinocoruna",
     "status": "down",
-    "uptime": "23.71%",
+    "uptime": "23.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3264,7 +3263,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 637,
+      "2025-07-22": 46,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -3627,8 +3627,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -3637,7 +3636,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.mercantilvigo.xestos.es.ico",
     "slug": "mercantilvigo",
     "status": "down",
-    "uptime": "26.31%",
+    "uptime": "26.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -3648,7 +3647,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 637,
+      "2025-07-22": 46,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -4011,8 +4011,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -4032,7 +4031,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-21": 637,
+      "2025-07-22": 46,
+      "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
       "2025-07-18": 1440,
@@ -4395,8 +4395,7 @@
       "2024-07-26": 1440,
       "2024-07-25": 1440,
       "2024-07-24": 1440,
-      "2024-07-23": 1440,
-      "2024-07-22": 1440
+      "2024-07-23": 1440
     }
   },
   {
@@ -4411,9 +4410,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
     "time": 377,
-    "timeDay": 441,
-    "timeWeek": 332,
-    "timeMonth": 331,
+    "timeDay": 258,
+    "timeWeek": 324,
+    "timeMonth": 324,
     "timeYear": 372,
     "dailyMinutesDown": {
       "2025-06-10": 296,
@@ -4439,9 +4438,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 359,
-    "timeDay": 547,
-    "timeWeek": 370,
-    "timeMonth": 356,
+    "timeDay": 359,
+    "timeWeek": 377,
+    "timeMonth": 352,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2025-06-10": 296,
@@ -4466,10 +4465,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 1102,
-    "timeDay": 1147,
-    "timeWeek": 1157,
-    "timeMonth": 1110,
-    "timeYear": 1189,
+    "timeDay": 1010,
+    "timeWeek": 1169,
+    "timeMonth": 1101,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2025-06-10": 296,
       "2025-06-09": 89,
