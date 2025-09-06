@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 793,
-    "timeDay": 742,
-    "timeWeek": 939,
-    "timeMonth": 951,
-    "timeYear": 854,
+    "time": 794,
+    "timeDay": 833,
+    "timeWeek": 944,
+    "timeMonth": 955,
+    "timeYear": 855,
     "dailyMinutesDown": {
       "2025-03-07": 21,
       "2024-12-31": 15,
@@ -33,18 +33,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.webdeporte.com.ico",
     "slug": "webdeporte-prestashop",
     "status": "down",
-    "uptime": "89.44%",
+    "uptime": "89.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.17%",
-    "time": 1036,
-    "timeDay": 0,
-    "timeWeek": 340,
-    "timeMonth": 351,
-    "timeYear": 969,
+    "uptimeYear": "55.97%",
+    "time": 1034,
+    "timeDay": 244,
+    "timeWeek": 324,
+    "timeMonth": 349,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -227,9 +228,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 686,
-    "timeDay": 518,
-    "timeWeek": 586,
-    "timeMonth": 640,
+    "timeDay": 746,
+    "timeWeek": 616,
+    "timeMonth": 647,
     "timeYear": 693,
     "dailyMinutesDown": {
       "2025-07-21": 76,
@@ -252,10 +253,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 252,
-    "timeDay": 189,
-    "timeWeek": 351,
-    "timeMonth": 290,
+    "time": 251,
+    "timeDay": 215,
+    "timeWeek": 338,
+    "timeMonth": 291,
     "timeYear": 257,
     "dailyMinutesDown": {
       "2025-02-19": 33,
@@ -268,16 +269,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.twelvepadelzenter.com.ico",
     "slug": "twelvepadelzenter",
     "status": "up",
-    "uptime": "64.56%",
+    "uptime": "64.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.57%",
-    "time": 621,
-    "timeDay": 546,
-    "timeWeek": 612,
+    "uptimeYear": "12.76%",
+    "time": 623,
+    "timeDay": 602,
+    "timeWeek": 628,
     "timeMonth": 626,
-    "timeYear": 642,
+    "timeYear": 641,
     "dailyMinutesDown": {
       "2025-07-21": 636,
       "2025-07-20": 1440,
@@ -596,8 +597,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -606,7 +606,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.rtsport.es.ico",
     "slug": "rtsport",
     "status": "down",
-    "uptime": "2.50%",
+    "uptime": "2.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -617,7 +617,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -980,8 +981,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -990,7 +990,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.ureca.es.ico",
     "slug": "ureca",
     "status": "down",
-    "uptime": "26.09%",
+    "uptime": "26.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1001,7 +1001,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -1364,8 +1365,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -1374,7 +1374,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/club.zeltik.es.ico",
     "slug": "zeltik",
     "status": "down",
-    "uptime": "38.06%",
+    "uptime": "38.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1385,7 +1385,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -1748,8 +1749,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -1758,16 +1758,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficinarecpadel.xestos.es.ico",
     "slug": "recpadel",
     "status": "up",
-    "uptime": "53.03%",
+    "uptime": "53.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.57%",
-    "time": 585,
-    "timeDay": 497,
-    "timeWeek": 552,
-    "timeMonth": 593,
-    "timeYear": 598,
+    "uptimeYear": "12.77%",
+    "time": 590,
+    "timeDay": 852,
+    "timeWeek": 602,
+    "timeMonth": 605,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2025-07-21": 600,
       "2025-07-20": 1440,
@@ -2086,8 +2086,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -2107,7 +2106,8 @@
     "timeMonth": 0,
     "timeYear": 1313,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -2429,8 +2429,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -2450,7 +2449,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -2813,8 +2813,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -2834,7 +2833,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -3197,8 +3197,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -3207,7 +3206,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.casinocoruna.xestos.es.ico",
     "slug": "casinocoruna",
     "status": "down",
-    "uptime": "22.77%",
+    "uptime": "22.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3218,7 +3217,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -3581,8 +3581,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -3591,7 +3590,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.mercantilvigo.xestos.es.ico",
     "slug": "mercantilvigo",
     "status": "down",
-    "uptime": "25.26%",
+    "uptime": "25.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3602,7 +3601,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -3965,8 +3965,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -3975,7 +3974,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/oficina.padelbao.xestos.es.ico",
     "slug": "padelbao",
     "status": "down",
-    "uptime": "10.28%",
+    "uptime": "10.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3986,7 +3985,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-05": 439,
+      "2025-09-06": 37,
+      "2025-09-05": 1440,
       "2025-09-04": 1440,
       "2025-09-03": 1440,
       "2025-09-02": 1440,
@@ -4349,8 +4349,7 @@
       "2024-09-10": 1440,
       "2024-09-09": 1440,
       "2024-09-08": 1440,
-      "2024-09-07": 1440,
-      "2024-09-06": 1440
+      "2024-09-07": 1440
     }
   },
   {
@@ -4360,15 +4359,15 @@
     "slug": "reservas-ureca",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "91.08%",
+    "uptimeDay": "95.72%",
     "uptimeWeek": "98.39%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.67%",
     "time": 369,
-    "timeDay": 378,
-    "timeWeek": 338,
+    "timeDay": 464,
+    "timeWeek": 341,
     "timeMonth": 332,
-    "timeYear": 366,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2025-09-05": 61,
       "2025-09-04": 67,
@@ -4392,13 +4391,13 @@
     "slug": "reservas-12zenter",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "91.16%",
+    "uptimeDay": "95.75%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.69%",
     "time": 356,
-    "timeDay": 353,
-    "timeWeek": 345,
+    "timeDay": 364,
+    "timeWeek": 349,
     "timeMonth": 361,
     "timeYear": 360,
     "dailyMinutesDown": {
@@ -4423,15 +4422,15 @@
     "slug": "tpv-recpadel",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "91.33%",
+    "uptimeDay": "95.81%",
     "uptimeWeek": "98.43%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.54%",
-    "time": 1155,
-    "timeDay": 1140,
-    "timeWeek": 1145,
-    "timeMonth": 1207,
-    "timeYear": 1240,
+    "time": 1156,
+    "timeDay": 1237,
+    "timeWeek": 1161,
+    "timeMonth": 1211,
+    "timeYear": 1241,
     "dailyMinutesDown": {
       "2025-09-05": 61,
       "2025-09-04": 64,
